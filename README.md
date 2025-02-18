@@ -1,3 +1,5 @@
+The goal of this project was to practice coding a computer-assisted translation tool from scratch.
+
 This program does the following:
 1) aligns an English file and its Spanish translation paragraph-by-paragraph
 2) compares that 1st English file to a 2nd (new) English file and looks for similar paragraphs (i.e. ones with overlapping words)
